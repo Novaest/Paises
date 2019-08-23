@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">  国家</string>
+    <string name="textNamePais"> 中国</string>
+    <string name="textFood">水饺</string>
+</resources>
